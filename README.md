@@ -1,7 +1,7 @@
 # GE_transportation
 
-##Step1: Pull the docker image
+## Step1: Pull the docker image
 ```bash
 docker pull yenliang/test:latest
 ```
-##Step2: 
+## Step2: 
